@@ -23,7 +23,7 @@ and product profitability.
 
 Open the notebook in Google Colab:
 
-[Open stall_analysis.ipynb in Google Colab](PASTE_YOUR_COLAB_LINK_HERE)
+[Open stall_analysis.ipynb in Google Colab](https://github.com/ndegwaelizabeth03-a11y/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 Alternatively, download the notebook and open it using
 Jupyter Notebook.
